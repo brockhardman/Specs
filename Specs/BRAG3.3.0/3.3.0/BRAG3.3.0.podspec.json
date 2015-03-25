@@ -19,6 +19,6 @@
     "commit": "848e74030d55f395983c032e9adb5ae8b98e0da8",
     "tag": "3.3.0"
   },
-  "source_files": "BRAG/*.{h,m}",
+  "source_files": "BRAG/*.{h,m}", "BRAG/*.xib", "BRAG/*.storyboard"
   "requires_arc": true
 }
